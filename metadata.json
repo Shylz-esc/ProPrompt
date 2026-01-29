@@ -1,0 +1,5 @@
+{
+  "name": "ProPrompt",
+  "description": "An intelligent, pure frontend assistant for generating high-quality AI prompts for coding, images, and text.",
+  "requestFramePermissions": []
+}
